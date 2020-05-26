@@ -108,3 +108,4 @@ refix
 .vscode
 .kitchen
 .emacs.desktop*
+.DS_Store
